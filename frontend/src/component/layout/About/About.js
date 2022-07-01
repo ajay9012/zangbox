@@ -4,7 +4,6 @@ import About2 from "./about02.jpg";
 import Chef1 from "./chef01.jpg";
 import Chef2 from "./chef02.jpg";
 import Chef3 from "./chef03.jpg";
-import About3 from "./raspberries.jpg";
 
 import "./About.css";
 
@@ -66,13 +65,13 @@ function About() {
                     </p>
                     <hr />
                     <div className="social-links">
-                      <a href="">
+                      <a href="https://www.instagram.com/_iamabhisheksharma__/">
                         <span className="fa fa-facebook"></span>
                       </a>
-                      <a href="">
+                      <a href="https://www.instagram.com/_iamabhisheksharma__/">
                         <span className="fa fa-twitter"></span>
                       </a>
-                      <a href="">
+                      <a href="https://www.instagram.com/_iamabhisheksharma__/">
                         <span className="fa fa-linkedin"></span>
                       </a>
                     </div>
@@ -90,13 +89,13 @@ function About() {
                     </p>
                     <hr />
                     <div className="social-links">
-                      <a href="">
+                      <a href="https://www.instagram.com/_iamabhisheksharma__/">
                         <span className="fa fa-facebook"></span>
                       </a>
-                      <a href="">
+                      <a href="https://www.instagram.com/_iamabhisheksharma__/">
                         <span className="fa fa-twitter"></span>
                       </a>
-                      <a href="">
+                      <a href="https://www.instagram.com/_iamabhisheksharma__/">
                         <span className="fa fa-linkedin"></span>
                       </a>
                     </div>
@@ -114,13 +113,13 @@ function About() {
                     </p>
                     <hr />
                     <div className="social-links">
-                      <a href="">
+                      <a href="https://www.instagram.com/_iamabhisheksharma__/">
                         <span className="fa fa-facebook"></span>
                       </a>
-                      <a href="">
+                      <a href="https://www.instagram.com/_iamabhisheksharma__/">
                         <span className="fa fa-twitter"></span>
                       </a>
-                      <a href="">
+                      <a href="https://www.instagram.com/_iamabhisheksharma__/">
                         <span className="fa fa-linkedin"></span>
                       </a>
                     </div>
